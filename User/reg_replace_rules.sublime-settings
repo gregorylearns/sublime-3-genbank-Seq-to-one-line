@@ -1,0 +1,23 @@
+{
+	"replacements":
+	{
+		"remove_digits":
+		{
+			"find": "\\d",
+			"name": "remove_digits",
+			"replace": ""
+		},
+		"remove_newlines":
+		{
+			"find": "\\n",
+			"name": "remove_newlines",
+			"replace": ""
+		},
+		"remove_spaces":
+		{
+			"find": " ",
+			"name": "remove_spaces",
+			"replace": ""
+		}
+	}
+}

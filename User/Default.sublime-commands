@@ -1,0 +1,7 @@
+[
+{
+    "caption": "Reg Replace: Genbank Sequence to One Line",
+    "command": "reg_replace",
+    "args": {"replacements": ["remove_spaces", "remove_digits", "remove_newlines"]}
+}
+]
